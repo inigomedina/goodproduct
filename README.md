@@ -1,7 +1,7 @@
 # The Good Product
 The official repository of the Good Product community at Slack.
 
-You can enjoy the conversation at the [Slack community](https://goodproduct.slack.com/).
+You can enjoy the conversation at the [Slack community](https://join.slack.com/t/thegoodproduct/shared_invite/enQtMzk0NDMxODMyMjc4LWIxMjhmMDU0ZmE0NDc2YmRiMzQzMzU4NTBjYjk0NzI4Zjc3Yzc0MGU1ZDNmZGI2YWM0YWRhMDljYTc3NmFkZTc).
 
 ## Goal
 
