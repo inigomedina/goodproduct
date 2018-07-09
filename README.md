@@ -9,12 +9,12 @@ Queremos hablar, aprender, y discutir sobre cualquier aspecto relacionado con lo
 
 ## Idioma
 
-Al principio empezamos utilizando el inglés como el idioma de la comunidad. Queríamos que fuera una señal de apertura, para que cualquier persona en cualquier parte del mundo pudiera unirse. 
+Al principio, empezamos utilizando el inglés como el idioma de la comunidad. Queríamos que fuera una señal de apertura, para que cualquier persona en cualquier parte del mundo pudiera unirse. 
 
-Lo discutimos dentro de la comunidad y con personas a las que invitamos a unirse, y al final a todo el mundo le pareció más razonable utilizar el español, y movernos al inglés en cuanto se una la primera persona que lo necesita.
+Lo discutimos dentro de la comunidad y con personas a las que invitamos a unirse, y al final a todo el mundo le pareció más razonable utilizar el español, y movernos al inglés en cuanto se uniera la primera persona que lo necesita.
 
 
 ## Atmosphere
 
-Queremos ser una comunidad de aprendices, gente que trabaja con responsabilidad, y personas reflexivas, amables, y comprensivas.
+Queremos ser una comunidad de aprendices, gente que trabaja con responsabilidad. Una comunidad de personas reflexivas, amables, y comprensivas, que asumen que pueden no coincidir en la posición, pero que sí buscan una posición.
 
