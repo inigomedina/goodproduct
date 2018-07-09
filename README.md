@@ -1,19 +1,20 @@
 # The Good Product
-The official repository of The Good Product community.
+El repositorio oficial de la comunidad The Good Product.
 
-You can enjoy the conversation at the [Slack community](https://join.slack.com/t/thegoodproduct/shared_invite/enQtMzk0NDMxODMyMjc4LWIxMjhmMDU0ZmE0NDc2YmRiMzQzMzU4NTBjYjk0NzI4Zjc3Yzc0MGU1ZDNmZGI2YWM0YWRhMDljYTc3NmFkZTc).
+Puedes unirte a la conversación utilizando este link a la [comunidad en Slack](https://join.slack.com/t/thegoodproduct/shared_invite/enQtMzk0NDMxODMyMjc4LWIxMjhmMDU0ZmE0NDc2YmRiMzQzMzU4NTBjYjk0NzI4Zjc3Yzc0MGU1ZDNmZGI2YWM0YWRhMDljYTc3NmFkZTc).
 
-## Goal
+## Propósito
 
-We want to talk, learn, and discuss about any aspect related to products with no limit about types of products, topics, perspectives, or roles.
+Queremos hablar, aprender, y discutir sobre cualquier aspecto relacionado con los productos, entendidos en el más amplio sentido de la palabra, y sin ninguna restricción sobre tipos de productos, temas, perspectivas, o especialidades.
 
-## Language
+## Idioma
 
-We use English as the primary language of the community. This allows us to bring people from practically any place of the world.
+Al principio empezamos utilizando el inglés como el idioma de la comunidad. Queríamos que fuera una señal de apertura, para que cualquier persona en cualquier parte del mundo pudiera unirse. 
 
-If this makes you feel unsure or shy, do not give too much importance to the language and use it in your own way. Let your voice be heard.
+Lo discutimos dentro de la comunidad y con personas a las que invitamos a unirse, y al final a todo el mundo le pareció más razonable utilizar el español, y movernos al inglés en cuanto se una la primera persona que lo necesita.
+
 
 ## Atmosphere
 
-We seek for a community of eager learners, conscientious workers, and thoughtful, kind, supportive persons.
+Queremos ser una comunidad de aprendices, gente que trabaja con responsabilidad, y personas reflexivas, amables, y comprensivas.
 
